@@ -1,0 +1,6 @@
+[
+  {"cmd":"room","x":2,"y":2,"w":12,"h":8,"name":"entry","lit":true},
+  {"cmd":"spawn","x":5,"y":5},
+  {"cmd":"place","kind":"torch","x":7,"y":5},
+  {"cmd":"place","kind":"orc","x":10,"y":6}
+]
